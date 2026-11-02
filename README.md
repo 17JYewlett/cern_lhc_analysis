@@ -8,6 +8,7 @@ In order to be able to run the notebook effectively, you would need the root dat
 <i>CITATION: Wunsch, Stefan; (2019). DoubleMuParked dataset from 2012 in NanoAOD format reduced on muons. 
           CERN Open Data Portal. DOI:10.7483/OPENDATA.CMS.LVG5.QT81</i>
 <br>
+<br>
 The raw data is organised as such:
 ![Table of data structure](table_info.png)
 
